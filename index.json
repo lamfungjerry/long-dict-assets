@@ -5,7 +5,8 @@
     "createdAt": "2026-11-01T02:08:12.285Z",
     "chunkCount": 79,
     "availableVoices": [
-      "en-US-Chirp3-HD-Aoede"
+      "en-US-Chirp3-HD-Aoede",
+      "en-US-Chirp3-HD-Kore"
     ],
     "selectedVoice": "en-US-Chirp3-HD-Aoede"
   },

@@ -4,8 +4,10 @@
     "folderName": "Jack_and_the_Moon___A_Glass_of_Milk",
     "createdAt": "2026-11-01T02:08:12.285Z",
     "chunkCount": 79,
-    "availableVoices": [],
-    "selectedVoice": ""
+    "availableVoices": [
+      "en-US-Chirp3-HD-Aoede"
+    ],
+    "selectedVoice": "en-US-Chirp3-HD-Aoede"
   },
   {
     "title": "White-water kayaking",

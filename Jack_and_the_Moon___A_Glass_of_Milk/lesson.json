@@ -558,6 +558,12 @@
       "isTitle": false
     }
   ],
-  "voices": {},
-  "selectedVoice": ""
+  "voices": {
+    "en-US-Chirp3-HD-Aoede": {
+      "downloaded": true,
+      "count": 79,
+      "updatedAt": "2026-11-01T02:08:45.480Z"
+    }
+  },
+  "selectedVoice": "en-US-Chirp3-HD-Aoede"
 }

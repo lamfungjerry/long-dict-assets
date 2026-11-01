@@ -1,20 +1,5 @@
 [
   {
-    "title": "Jack and the Moon & A Glass of Milk",
-    "folderName": "Jack_and_the_Moon___A_Glass_of_Milk",
-    "createdAt": "2026-11-01T02:08:12.285Z",
-    "chunkCount": 79,
-    "availableVoices": [
-      "en-US-Chirp3-HD-Aoede",
-      "en-US-Chirp3-HD-Kore",
-      "en-US-Chirp3-HD-Leda",
-      "en-US-Chirp3-HD-Zephyr",
-      "en-US-Chirp3-HD-Puck",
-      "en-US-Chirp3-HD-Charon"
-    ],
-    "selectedVoice": "en-US-Chirp3-HD-Aoede"
-  },
-  {
     "title": "White-water kayaking",
     "folderName": "White-water_kayaking",
     "createdAt": "2026-10-17T03:02:16.166Z",

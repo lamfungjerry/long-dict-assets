@@ -1,0 +1,563 @@
+{
+  "title": "Jack and the Moon & A Glass of Milk",
+  "folderName": "Jack_and_the_Moon___A_Glass_of_Milk",
+  "createdAt": "2026-11-01T02:08:12.285Z",
+  "chunkCount": 79,
+  "chunks": [
+    {
+      "index": 0,
+      "text": "Jack and the Moon & A Glass of Milk",
+      "spokenText": "Jack and the Moon & A Glass of Milk",
+      "pauseSeconds": 5,
+      "isTitle": true
+    },
+    {
+      "index": 1,
+      "text": "Once upon a time,",
+      "spokenText": "Once upon a time comma",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 2,
+      "text": "there was a little boy",
+      "spokenText": "there was a little boy",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 3,
+      "text": "named Jack.",
+      "spokenText": "named Jack full stop",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 4,
+      "text": "One day",
+      "spokenText": "One day",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 5,
+      "text": "he looked up",
+      "spokenText": "he looked up",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 6,
+      "text": "at the night sky",
+      "spokenText": "at the night sky",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 7,
+      "text": "and said,",
+      "spokenText": "and said comma",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 8,
+      "text": "'I want the moon.'",
+      "spokenText": "open quotation mark I want the moon full stop close quotation mark",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 9,
+      "text": "Jack approached his parents",
+      "spokenText": "Jack approached his parents",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 10,
+      "text": "and told,",
+      "spokenText": "and told comma",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 11,
+      "text": "'Mum, Dad!",
+      "spokenText": "open quotation mark Mum comma Dad exclamation mark",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 12,
+      "text": "I want the moon.'",
+      "spokenText": "I want the moon full stop close quotation mark",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 13,
+      "text": "His parents",
+      "spokenText": "His parents",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 14,
+      "text": "were very confused.",
+      "spokenText": "were very confused full stop",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 15,
+      "text": "His parents tried everything",
+      "spokenText": "His parents tried everything",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 16,
+      "text": "to change his mind.",
+      "spokenText": "to change his mind full stop",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 17,
+      "text": "At that time,",
+      "spokenText": "At that time comma",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 18,
+      "text": "Jack's granny enters the room",
+      "spokenText": "Jack's granny enters the room",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 19,
+      "text": "and said,",
+      "spokenText": "and said comma",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 20,
+      "text": "'I think",
+      "spokenText": "open quotation mark I think",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 21,
+      "text": "I have a solution.'",
+      "spokenText": "I have a solution full stop close quotation mark",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 22,
+      "text": "Jack asked eagerly,",
+      "spokenText": "Jack asked eagerly comma",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 23,
+      "text": "'What is it, Granny?'",
+      "spokenText": "open quotation mark What is it comma Granny question mark close quotation mark",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 24,
+      "text": "She told him",
+      "spokenText": "She told him",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 25,
+      "text": "to follow her",
+      "spokenText": "to follow her",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 26,
+      "text": "and led him outside.",
+      "spokenText": "and led him outside full stop",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 27,
+      "text": "Granny placed the vessel",
+      "spokenText": "Granny placed the vessel",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 28,
+      "text": "under the moonlight,",
+      "spokenText": "under the moonlight comma",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 29,
+      "text": "creating a reflection",
+      "spokenText": "creating a reflection",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 30,
+      "text": "of the moon",
+      "spokenText": "of the moon",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 31,
+      "text": "in the water.",
+      "spokenText": "in the water full stop",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 32,
+      "text": "'Look, Jack!",
+      "spokenText": "open quotation mark Look comma Jack exclamation mark",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 33,
+      "text": "Here is the moon.'",
+      "spokenText": "Here is the moon full stop close quotation mark",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 34,
+      "text": "Jack's eyes lit up",
+      "spokenText": "Jack's eyes lit up",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 35,
+      "text": "with joy,",
+      "spokenText": "with joy comma",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 36,
+      "text": "and he started dancing.",
+      "spokenText": "and he started dancing full stop",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 37,
+      "text": "His parents and Granny knew",
+      "spokenText": "His parents and Granny knew",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 38,
+      "text": "that sometimes",
+      "spokenText": "that sometimes",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 39,
+      "text": "you can make dreams",
+      "spokenText": "you can make dreams",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 40,
+      "text": "come true",
+      "spokenText": "come true",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 41,
+      "text": "in the most surprising ways.",
+      "spokenText": "in the most surprising ways full stop",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 42,
+      "text": "There was a poor boy",
+      "spokenText": "There was a poor boy",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 43,
+      "text": "who would sell newspapers",
+      "spokenText": "who would sell newspapers",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 44,
+      "text": "to pay for school.",
+      "spokenText": "to pay for school full stop",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 45,
+      "text": "One day,",
+      "spokenText": "One day comma",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 46,
+      "text": "he was ravenous",
+      "spokenText": "he was ravenous",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 47,
+      "text": "and decided to ask",
+      "spokenText": "and decided to ask",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 48,
+      "text": "for food",
+      "spokenText": "for food",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 49,
+      "text": "at the next house",
+      "spokenText": "at the next house",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 50,
+      "text": "he visited.",
+      "spokenText": "he visited full stop",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 51,
+      "text": "Several people",
+      "spokenText": "Several people",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 52,
+      "text": "denied him food.",
+      "spokenText": "denied him food full stop",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 53,
+      "text": "However, a girl",
+      "spokenText": "However comma a girl",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 54,
+      "text": "at one house",
+      "spokenText": "at one house",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 55,
+      "text": "offered him",
+      "spokenText": "offered him",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 56,
+      "text": "a glass of milk.",
+      "spokenText": "a glass of milk full stop",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 57,
+      "text": "She refused",
+      "spokenText": "She refused",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 58,
+      "text": "to take payment",
+      "spokenText": "to take payment",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 59,
+      "text": "for it.",
+      "spokenText": "for it full stop",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 60,
+      "text": "After many years,",
+      "spokenText": "After many years comma",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 61,
+      "text": "this girl fell sick.",
+      "spokenText": "this girl fell sick full stop",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 62,
+      "text": "No doctor",
+      "spokenText": "No doctor",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 63,
+      "text": "wanted to help her.",
+      "spokenText": "wanted to help her full stop",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 64,
+      "text": "She decided to go",
+      "spokenText": "She decided to go",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 65,
+      "text": "to the best doctor",
+      "spokenText": "to the best doctor",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 66,
+      "text": "in the town.",
+      "spokenText": "in the town full stop",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 67,
+      "text": "The doctor spent months",
+      "spokenText": "The doctor spent months",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 68,
+      "text": "treating her",
+      "spokenText": "treating her",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 69,
+      "text": "though she could not",
+      "spokenText": "though she could not",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 70,
+      "text": "afford the service.",
+      "spokenText": "afford the service full stop",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 71,
+      "text": "When she received",
+      "spokenText": "When she received",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 72,
+      "text": "the hospital bill,",
+      "spokenText": "the hospital bill comma",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 73,
+      "text": "it read",
+      "spokenText": "it read",
+      "pauseSeconds": 3,
+      "isTitle": false
+    },
+    {
+      "index": 74,
+      "text": "'Paid in full",
+      "spokenText": "open quotation mark Paid in full",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 75,
+      "text": "with a glass of milk.'",
+      "spokenText": "with a glass of milk full stop close quotation mark",
+      "pauseSeconds": 5,
+      "isTitle": false
+    },
+    {
+      "index": 76,
+      "text": "The moral of the story",
+      "spokenText": "The moral of the story",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 77,
+      "text": "is 'Good Deeds",
+      "spokenText": "is open quotation mark Good Deeds",
+      "pauseSeconds": 4,
+      "isTitle": false
+    },
+    {
+      "index": 78,
+      "text": "are always rewarded.'",
+      "spokenText": "are always rewarded full stop close quotation mark",
+      "pauseSeconds": 5,
+      "isTitle": false
+    }
+  ],
+  "voices": {},
+  "selectedVoice": ""
+}

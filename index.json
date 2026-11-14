@@ -4,8 +4,10 @@
     "folderName": "Chuseok__Korea_s_Harvest_Festival",
     "createdAt": "2026-11-14T03:50:57.975Z",
     "chunkCount": 54,
-    "availableVoices": [],
-    "selectedVoice": ""
+    "availableVoices": [
+      "en-US-Chirp3-HD-Fenrir"
+    ],
+    "selectedVoice": "en-US-Chirp3-HD-Fenrir"
   },
   {
     "title": "White-water kayaking",

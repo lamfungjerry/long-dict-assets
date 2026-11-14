@@ -1,7 +1,7 @@
 {
   "title": "Chuseok: Korea's Harvest Festival",
   "folderName": "Chuseok__Korea_s_Harvest_Festival",
-  "createdAt": "2026-11-14T03:48:29.934Z",
+  "createdAt": "2026-11-14T03:50:57.975Z",
   "chunkCount": 54,
   "chunks": [
     {
@@ -383,22 +383,6 @@
       "isTitle": false
     }
   ],
-  "voices": {
-    "en-US-Chirp3-HD-Fenrir": {
-      "downloaded": true,
-      "count": 54,
-      "updatedAt": "2026-11-14T03:49:00.559Z"
-    },
-    "en-US-Chirp3-HD-Aoede": {
-      "downloaded": true,
-      "count": 54,
-      "updatedAt": "2026-11-14T03:49:47.448Z"
-    },
-    "en-US-Chirp3-HD-Kore": {
-      "downloaded": true,
-      "count": 54,
-      "updatedAt": "2026-11-14T03:50:05.640Z"
-    }
-  },
-  "selectedVoice": "en-US-Chirp3-HD-Fenrir"
+  "voices": {},
+  "selectedVoice": ""
 }
